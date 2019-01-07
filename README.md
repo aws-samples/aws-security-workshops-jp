@@ -1,7 +1,6 @@
-## AWS Security Workshops Jpn
+## AWS Security Workshops (Japanese)
 
-This repo contains a collection of AWS Security workshops.
-
+COMING SOON!
 ## License Summary
 
 This sample code is made available under a modified MIT license. See the LICENSE file.

@@ -1,0 +1,62 @@
+# Project information
+
+site_name: Security Workshops
+site_description: 'A collection of AWS Security related workshops'
+site_author: 'aws-security-workshops@amazon.com'
+site_url: 'https://awssecworkshops.jp'
+
+# Repository
+repo_name: 'aws-samples/aws-security-workshops-jp'
+repo_url: 'https://github.com/aws-samples/aws-security-workshops-jp'
+
+# Copyright
+copyright: '&copy; 2018, Amazon Web Services, Inc. or its affiliates. All rights reserved.'
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'ja'
+  logo: 'assets/images/aws_smile_logo.png'
+  favicon: 'assets/images/aws-favicon.ico'
+  feature:
+    tabs: true
+  custom_dir: 'docs/theme'
+
+# Customization
+extra_css:
+  - 'stylesheets/custom.css'
+extra_javascript:
+  - 'javascripts/extra.js'
+extra:
+  social:
+    - type: 'home'
+      link: 'https://awssecworkshops.jp'
+    - type: 'shield'
+      link: 'https://aws.amazon.com/security/'
+    - type: 'twitter'
+      link: 'https://twitter.com/awssecurityinfo?lang=en'
+    - type: 'rss'
+      link: 'https://aws.amazon.com/blogs/security/'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.details
+
+# Navigation
+nav:
+  - Home: 'index.md'
+  - Getting Started: 'getting-started.md'
+  - Builder Sessions:
+    - Directory: 'builder-sessions/index.md'
+  - Workshops: 
+    - 'Directory': 'workshops/index.md'
+    - 'Scaling threat detection and response on AWS': 
+      - 'Overview': 'workshops/threat-detection-remediation/index.md'
+      - 'Module 1: Environment Build': 'workshops/threat-detection-remediation/01-environment-setup.md'
+      - 'Module 2: Attack Simulation': 'workshops/threat-detection-remediation/02-attack-simulation.md'
+      - 'Module 3: Detect & Respond': 'workshops/threat-detection-remediation/03-detection-and-remediation.md'
+      - 'Module 4: Discussion': 'workshops/threat-detection-remediation/04-review-and-discussion.md'
+  - Contributing: 'contribute.md'
+  - License: 'license.md'
