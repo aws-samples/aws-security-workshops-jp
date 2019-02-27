@@ -6,9 +6,9 @@ Here you'll find a collection of security workshops and other hands-on content t
 
 ## To start a workshop:
 
-Visit the workshop portal to get started: [https://awssecworkshops.com](https://awssecworkshops.com)
+Visit the workshop portal to get started: [https://awssecworkshops.jp](https://awssecworkshops.jp)
 
-> All workshops previously listed here have been migrated to the portal and are listed in the [directory](https://awssecworkshops.com/workshops/).
+> All workshops previously listed here have been migrated to the portal and are listed in the [directory](https://awssecworkshops.jp/workshops/).
 
 ## To deliver a workshop:
 
