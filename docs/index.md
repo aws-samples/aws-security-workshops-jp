@@ -1,4 +1,4 @@
-# AWS Security Workshops
+# AWS セキュリティワークショップ
 
 ![Components](assets/images/csf-core-functions.png "NIST Cybersecurity Framework Core Functions")
 
