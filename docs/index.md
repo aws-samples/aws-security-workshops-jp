@@ -8,7 +8,7 @@ Security and Compliance is a <a href="https://aws.amazon.com/compliance/shared-r
 
 The workshops contained in this portal are focused on the ***Security in the Cloud*** and they will guide you through prepared scenarios that represent common use cases and operational tasks you'll face in building on AWS.  They will also highlight the design principals from the <a href="https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf" target="_blank">AWS Well-Architected Framework Security Pillar</a>, which can help you improve your security posture.
 
-* *Implement a strong identity foundation*
+* *強固な ID 基盤の実装*
 * *Enable traceability*
 * *Apply security at all layers*
 * *Automate security best practices*
