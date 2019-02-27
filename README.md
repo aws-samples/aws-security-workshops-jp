@@ -1,6 +1,6 @@
 ## AWS セキュリティワークショップ
 
-![Components](./images/security-components-color.png "Categorization of AWS Security Services")
+![Components](./images/security-components.png "Categorization of AWS Security Services")
 
 Here you'll find a collection of security workshops and other hands-on content that will guide you through prepared scenarios that represent common use cases and security operational tasks on Amazon Web Services (AWS). The workshops closely align with the [NIST Cyber Security Framework](https://www.nist.gov/cyberframework) and will provide a deep dive into a variety of AWS security services, techniques, and best practices that'll you'll be able to apply to your own environments to better improve your security posture.
 
