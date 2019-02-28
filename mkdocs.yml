@@ -52,11 +52,5 @@ nav:
     - Directory: 'builder-sessions/index.md'
   - Workshops: 
     - 'Directory': 'workshops/index.md'
-    - 'Scaling threat detection and response on AWS': 
-      - 'Overview': 'workshops/threat-detection-remediation/index.md'
-      - 'Module 1: Environment Build': 'workshops/threat-detection-remediation/01-environment-setup.md'
-      - 'Module 2: Attack Simulation': 'workshops/threat-detection-remediation/02-attack-simulation.md'
-      - 'Module 3: Detect & Respond': 'workshops/threat-detection-remediation/03-detection-and-remediation.md'
-      - 'Module 4: Discussion': 'workshops/threat-detection-remediation/04-review-and-discussion.md'
-  - Contributing: 'contribute.md'
-  - License: 'license.md'
+    - 'Scaling threat detection and response on AWS': 'https://scaling-threat-detection.awssecworkshops.jp/'
+  - コントリビュートのガイドライン: 'contribute.md'
