@@ -29,7 +29,7 @@
 
 .md-tabs__link {
     font-weight: bold !important;
-    font-size: 1.5rem !important;
+    font-size: .8rem !important;
 }
 
 .md-header-nav__source {
@@ -38,24 +38,24 @@
 
 /* Language Drop Down */
 .md-header-nav__lang {
-    padding: 0 0.5rem;
-    line-height: 4.8rem;
-    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
-    width: 30px;
+    display: block;
+    width: 2rem;
+    margin-left: .5rem;
+    margin-right: .2rem;
+    padding-right: .6rem;
 }
 
 .md-lang-drop {
-    position: relative;
-    display: inline-block;
-    font-size: 1.9rem;
-    padding: 0 0 0 5px;
+    line-height: 2.6rem;
+    padding: 0 0.5rem;
+    font-size: 1.2rem;
+    width: 1px
 }
 
 .md-lang-dropbtn {
     color: white;
     border: none;
     cursor: pointer;
-    padding: 0px 12px;
     font-weight: bold;
 }
 
@@ -108,7 +108,7 @@
 .md-typeset table:not([class]) th {
     min-width: 15rem;
     background-color: #6c6c6c !important;
-    font-size: 1.5rem;
+    font-size: medium;
 }
 
 .md-typeset table:not([class]) td {
@@ -116,7 +116,7 @@
 }
 
 .table {
-    font-size: 1.4rem;
+    font-size: medium;
 }
 
 /* Footer */
