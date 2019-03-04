@@ -2,7 +2,7 @@
 
 ![Components](assets/images/csf-core-functions.png "NIST Cybersecurity Framework Core Functions")
 
-AWS セキュリティワークショップポータルへようこそ! ここには、サービスエコシステムの理解に役立てるためのワークショップのコレクションがあり、AWS で実行される環境および ワークロードの保護に適用できる様々なベストプラクティスを紹介しています。 TEST
+AWS セキュリティワークショップポータルへようこそ! ここには、サービスエコシステムの理解に役立てるためのワークショップのコレクションがあり、AWS で実行される環境および ワークロードの保護に適用できる様々なベストプラクティスを紹介しています。 TEST22
 
 Security and Compliance is a <a href="https://aws.amazon.com/compliance/shared-responsibility-model/" target="_blank">shared responsibility</a> between AWS and the customer.  AWS customers benefit from a data center and network architecture built to satisfy the requirements of the most security-sensitive organizations.  AWS is responsible for protecting the infrastructure which runs all of the services offered and this responsibility is known as the ***Security of the Cloud***.  Customers responsibility, known as the ***Security in the Cloud***, is determined by which services the customer chooses to use.  
 
