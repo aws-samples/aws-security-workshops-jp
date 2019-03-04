@@ -1,37 +1,26 @@
-# Getting Started
+# 概要
 
-## Create an AWS account
+## AWS アカウントの作成
 
-In order to complete these workshops, you'll need a valid, usable <a href="https://aws.amazon.com/getting-started/" target="_blank">AWS Account</a>. Use a personal account or create a new AWS account to ensure you have the necessary access and that you do not accidentally modify corporate resources. Do **not** use an AWS account from the company you work for. 
+このワークショップを完了するには、有効で使用可能な <a href="https://aws.amazon.com/getting-started/" target="_blank">AWS アカウント</a>が必要です。個人アカウントを使用するか、新しい AWS アカウントを作成して、必要なアクセス権があることと、企業リソースを誤って変更していないことを確認してください。勤務している会社の AWS アカウントは使用しないでください。
 
-## Create an admin user
+## 管理ユーザーの作成
 
-If you don't already have an AWS IAM user with admin permissions, please use the following instructions to create one:
+管理者権限を持つ AWS IAM ユーザーがまだない場合、次の指示に従って作成してください。
 
-1.  Browse to the <a href="https://console.aws.amazon.com/iam/" target="_blank">AWS IAM</a> console.
-2.  Click **Users** on the left navigation and then click **Add User**.
-3.  Enter a **User Name**, check the checkbox for **AWS Management Console access**, enter a **Custom Password**, and click **Next:Permissions**.
-4.  Click **Attach existing policies directly**, click the checkbox next to the **AdministratorAccess**, and click **Next:review**.
-5.  Click **Create User**
-6.  Click **Dashboard** on the left navigation and use the **IAM users sign-in link** to login as the admin user you just created.
+1.  <a href="https://console.aws.amazon.com/iam/" target="_blank">AWS IAM</a> コンソールを参照します。
+2.  左のナビゲーションで **Users (ユーザー)** をクリックし、**Add User (ユーザーの追加)** をクリックします。
+3.  **User Name (ユーザー名)** を入力し、**AWS Management Console access (AWS マネジメントコンソールアクセス)** のチェックボックスを選択し、**Custom Password (カスタムパスワード)** を入力して **Next:Permissions (次:アクセス許可)** をクリックします。
+4.  **Attach existing policies directly (既存のポリシーを直接アタッチ)** をクリックし、**AdministratorAccess (管理者アクセス)** の横にあるチェックボックスをクリックし、**Next:review (次:レビュー)** をクリックします。
+5.  **Create User (ユーザーの作成)** をクリックします。
+6.  左のナビゲーションの **Dashboard (ダッシュボード)** をクリックし、**IAM users sign-in link (IAM ユーザーのサインインリンク)** を使用して、先ほど作成した管理ユーザーとしてログインします。
 
-## Add credits (optional)
+## クレジットの追加 (オプション)
 
-If you are doing this workshop as part of an AWS sponsored event, you will receive credits to cover the costs.  Below are the instructions for entering the credits:
+AWS が主催するイベントの一部としてこのワークショップを行っている場合、費用を負担するクレジットを受け取ります。クレジットを入力する手順は次のとおりです。
 
-1.  Browse to the <a href="https://console.aws.amazon.com/billing/home?#/credits" target="_blank">AWS Account Settings</a> console.
-2.  Enter the **Promo Code** you received (these will be handed out at the beginning of the workshop).
-3.  Enter the **Security Check** and click **Redeem**.
+1.  <a href="https://console.aws.amazon.com/billing/home?#/credits" target="_blank">AWS アカウント設定</a> コンソールを参照します。
+2.  受け取った **Promo Code (販促コード)** を入力します (ワークショップの最初に渡されます)。
+3.  **Security Check (セキュリティチェック)** を入力し、**Redeem (清算)** をクリックします。
 
-## Create a Cloud9 instance (optional)
-
-If the workshop you are doing requires you to run commands or scripts you will need to launch a an <a href="https://aws.amazon.com/cloud9/" target="_blank">AWS Cloud9</a> instance which will provide you with a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. The workshop instructions will specify if this needed.  Below are the instructions for launching an instance:
-
-1.  Browse to the <a href="https://console.aws.amazon.com/cloud9" target="_blank">AWS Cloud9</a> console.
-2.  Click **Create environment** on the right side.
-3.  Enter a **Name** (security-workshop-ide) and click **Next step**.
-4.  Leave all the defaults and click **Next step**.
-5.  Click **Create environment**.
-6.  The environment will open automatically after it has been provisioned.  Browse back to the <a href="https://console.aws.amazon.com/cloud9" target="_blank">AWS Cloud9</a> console and you can click **Open IDE** on the environment you created to access it at anytime.
-
-You are now setup for the workshops!
+これでワークショップの準備ができました!

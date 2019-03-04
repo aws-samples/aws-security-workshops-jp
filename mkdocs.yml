@@ -47,10 +47,10 @@ markdown_extensions:
 # Navigation
 nav:
   - Home: 'index.md'
-  - Getting Started: 'getting-started.md'
-  - Builder Sessions:
-    - Directory: 'builder-sessions/index.md'
-  - Workshops: 
+  - 概要: 'getting-started.md'
+  #- Builder Sessions:
+  #  - Directory: 'builder-sessions/index.md'
+  - ワークショップ: 
     - 'Directory': 'workshops/index.md'
-    - 'Scaling threat detection and response on AWS': 'https://scaling-threat-detection.awssecworkshops.jp/'
+    - 'AWS 環境における脅威検知と対応': 'https://scaling-threat-detection.awssecworkshops.jp/'
   - コントリビュートのガイドライン: 'contribute.md'

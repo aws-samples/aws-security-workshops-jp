@@ -1,4 +1,4 @@
-# Workshops
+# ワークショップ
 
 <div class="md-typeset__table">
     <table>

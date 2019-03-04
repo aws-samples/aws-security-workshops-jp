@@ -2,16 +2,16 @@
 
 ![Components](assets/images/csf-core-functions.png "NIST Cybersecurity Framework Core Functions")
 
-AWS セキュリティワークショップポータルへようこそ! ここには、サービスエコシステムの理解に役立てるためのワークショップのコレクションがあり、AWS で実行される環境および ワークロードの保護に適用できる様々なベストプラクティスを紹介しています。 TEST222222
+AWS セキュリティワークショップポータルへようこそ! ここには、サービスエコシステムの理解に役立てるためのワークショップのコレクションがあり、AWS で実行される環境および ワークロードの保護に適用できる様々なベストプラクティスを紹介しています。
 
-Security and Compliance is a <a href="https://aws.amazon.com/compliance/shared-responsibility-model/" target="_blank">shared responsibility</a> between AWS and the customer.  AWS customers benefit from a data center and network architecture built to satisfy the requirements of the most security-sensitive organizations.  AWS is responsible for protecting the infrastructure which runs all of the services offered and this responsibility is known as the ***Security of the Cloud***.  Customers responsibility, known as the ***Security in the Cloud***, is determined by which services the customer chooses to use.  
+セキュリティおよびコンプライアンスは、AWS とお客様とで責任が共有されます。AWS のお客様は、セキュリティに最も機微な組織の要件を満たすように構築されたデータセンターおよびネットワークアーキテクチャのメリットを享受します。AWS は、提供するすべてのサービスを実行するインフラストラクチャについて保護を行う責任を負います。この責任は、クラウドのセキュリティと呼ばれます。お客様の責任は、クラウド内のセキュリティと呼ばれ、お客様がどのサービスの使用を選択するかによって決まります。
 
-The workshops contained in this portal are focused on the ***Security in the Cloud*** and they will guide you through prepared scenarios that represent common use cases and operational tasks you'll face in building on AWS.  They will also highlight the design principals from the <a href="https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf" target="_blank">AWS Well-Architected Framework Security Pillar</a>, which can help you improve your security posture.
+このポータルに含まれているワークショップではクラウド内のセキュリティに重点を置いており、事前準備されたシナリオを使用して AWS の構築で直面する一般的なユースケースおよび操作タスクを説明しています。また、<a href="https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf" target="_blank">AWS Well-Architected フレームワークのセキュリティの柱</a>にある設計の原則にもハイライトを当てており、セキュリティの向上に役立ちます。
 
 * *強固な ID 基盤の実装*
-* *Enable traceability*
-* *Apply security at all layers*
-* *Automate security best practices*
-* *Protect data in transit and at rest*
-* *Keep people away from data*
-* *Prepare for security events*
+* *トレーサビリティの有効化*
+* *すべてのレイヤーでのセキュリティの適用*
+* *セキュリティのベストプラクティスの自動化*
+* *転送中および保管時のデータの保護*
+* *ユーザーをデータから隔離*
+* *セキュリティイベントへの準備*
