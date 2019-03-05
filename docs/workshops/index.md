@@ -4,8 +4,8 @@
     <table>
         <thead>
             <tr>
-                <th align="left" ><strong>Title</strong></th>
-                <th align="left"><strong>Description</strong></th>
+                <th align="left" ><strong>タイトル</strong></th>
+                <th align="left"><strong>説明</strong></th>
             </tr>
         </thead>
         <tbody>
