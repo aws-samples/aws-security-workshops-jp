@@ -49,7 +49,7 @@ nav:
   - ホーム: 'index.md'
   - 概要: 'getting-started.md'
   #- Builder Sessions:
-  #  - ディレクトリー: 'builder-sessions/index.md'
+  #  '- ディレクトリー': 'builder-sessions/index.md'
   - ワークショップ: 
     - 'ディレクトリー': 'workshops/index.md'
     - 'AWS 環境における脅威検知と対応': 'https://scaling-threat-detection.awssecworkshops.jp/'
